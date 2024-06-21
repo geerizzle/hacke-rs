@@ -3,6 +3,9 @@ Minimalistic client for browsing Hacker News that was made as a byproduct of pra
 Currently not supporting async loading, will do once I find the time (or will) to update it. In
 the meantime feel free to open issues or contribute
 
+# TODO
+On-scroll end refresh
+
 # Installation
 ## Linux (from source)
 Clone the repository

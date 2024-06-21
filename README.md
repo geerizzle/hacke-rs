@@ -11,6 +11,6 @@ Clone the repository
 ```
 And go into the cloned repository and execute:
 ```
-  cargo build --release
+  cargo install --path .
 ```
-After that just copy the `hacke-rs` binary file to your $PATH from `target/release/`
+After that just make sure `.cargo/bin` is in your PATH
